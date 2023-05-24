@@ -113,7 +113,8 @@ span {
   background-color: #00000080;
 }
 
-.background video {
+/*eu mudei de video para iframe*/
+.background .gif {
   position: fixed;
   top: 0;
   left: 0;
@@ -122,6 +123,7 @@ span {
   height: 100vh;
   z-index: -100;
 }
+
 
 .logo {
   padding-left: 20px;
